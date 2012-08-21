@@ -4,7 +4,7 @@ name := "scala-time"
 
 version := "1.6"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.9.2"
 
 libraryDependencies += "joda-time" % "joda-time" % "2.1"
 
